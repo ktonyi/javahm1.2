@@ -14,7 +14,7 @@ https://github.com/ktonyi/javahm1.2/issues
 - Отчет о тестировании
 - тест кейсы  https://yadi.sk/d/baS3moLssysdcg
 
-### В качестве тестовых данных использовались данные из домашнего задания к занятию "1.2. Введение в Java: JDK, JRE, JVM, IntelliJ IDEA":
+### В качестве тестовых данных использовались данные из домашнего задания к занятию "1.1. Введение в Java: JDK, JRE, JVM, IntelliJ IDEA":
 
 https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md
 https://www.freeformatter.com/credit-card-number-generator-validator.html#howToValidate
